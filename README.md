@@ -1,3 +1,4 @@
+![App Screenshot](https://link-to-your-hosted-image.png)
 # Flutter Visit Card App – APK Build
 
 This is a **fully working APK build** of a simple Flutter app that displays a digital visit card. It is built using basic Flutter widgets and tools to showcase:
