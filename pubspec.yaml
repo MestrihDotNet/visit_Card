@@ -51,6 +51,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - assets/sid.jpg
   fonts:
     - family: Pacifico
       fonts:
