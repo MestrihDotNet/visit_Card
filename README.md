@@ -1,16 +1,25 @@
-# flutter_stuff
+# Flutter Visit Card App – APK Build
 
-A new Flutter project.
+This is a **fully working APK build** of a simple Flutter app that displays a digital visit card. It is built using basic Flutter widgets and tools to showcase:
 
-## Getting Started
+- A custom phone number  
+- A physical (fictional) address  
+- A profile picture (loaded from the web or assets)  
+- An email address  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Simple, clean UI using Flutter `Column`, `Card`, `CircleAvatar`, and `Text` widgets  
+- Responsive layout with padding and centered content  
+- Network image loading for the profile picture  
+- Clickable phone number (can be extended with phone call functionality)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## How to Run
+
+1. Clone this repository.  
+2. Make sure you have Flutter installed on your machine.  
+3. Run the app on an emulator or physical device using:  
