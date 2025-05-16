@@ -1,6 +1,6 @@
 ## Screenshot
 
-<img src="assets/screenshot_1.png" width="400" height="300"/>
+<img src="assets/screenshot_1.png" width="300"/>
 # Flutter Visit Card App – APK Build
 
 This is a **fully working APK build** of a simple Flutter app that displays a digital visit card. It is built using basic Flutter widgets and tools to showcase:
